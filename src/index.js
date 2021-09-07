@@ -1,3 +1,5 @@
+import "./styles/main.scss";
+
 class Car {
     constructor(brand) {
         this.name = brand;
